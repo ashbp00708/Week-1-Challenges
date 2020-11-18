@@ -1,0 +1,7 @@
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\WeekOneChallenges\obj\Debug\NameAge.csprojAssemblyReference.cache
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\WeekOneChallenges\obj\Debug\NameAge.csproj.CoreCompileInputs.cache
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\WeekOneChallenges\bin\Debug\WeekOneChallenges.exe.config
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\WeekOneChallenges\bin\Debug\WeekOneChallenges.exe
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\WeekOneChallenges\bin\Debug\WeekOneChallenges.pdb
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\WeekOneChallenges\obj\Debug\WeekOneChallenges.exe
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\WeekOneChallenges\obj\Debug\WeekOneChallenges.pdb

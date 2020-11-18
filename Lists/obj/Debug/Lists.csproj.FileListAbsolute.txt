@@ -1,0 +1,6 @@
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\Lists\bin\Debug\Lists.exe.config
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\Lists\bin\Debug\Lists.exe
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\Lists\bin\Debug\Lists.pdb
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\Lists\obj\Debug\Lists.exe
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\Lists\obj\Debug\Lists.pdb

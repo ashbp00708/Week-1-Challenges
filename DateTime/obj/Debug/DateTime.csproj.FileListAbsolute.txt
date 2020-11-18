@@ -1,0 +1,6 @@
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\DateTime\bin\Debug\DateTime.exe
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\DateTime\bin\Debug\DateTime.pdb
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\DateTime\obj\Debug\DateTime.exe
+C:\Users\Ashley Petty\source\repos\WeekOneChallenges\DateTime\obj\Debug\DateTime.pdb
